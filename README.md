@@ -1,6 +1,6 @@
 # Bài 3 : Onboarding lập trình viên mới
 
-## 🖥️ Cài đặt VS Code
+## Cài đặt VS Code
 Phần giải thích là văn bản thường, còn *câu lệnh cần gõ* nằm trong khung code.
 
 ## Các bước
@@ -12,10 +12,10 @@ Phần giải thích là văn bản thường, còn *câu lệnh cần gõ* nằ
 5. **Verify** bằng lệnh:
 
 ```bash
-code --version
+ --version
 ```
 
-> 💡 Nếu lệnh `code` không nhận diện, hãy khởi động lại Terminal hoặc máy.
+>  Nếu lệnh `code` không nhận diện, hãy khởi động lại Terminal hoặc máy.
 
 ## Kiểm tra bằng Python
 
